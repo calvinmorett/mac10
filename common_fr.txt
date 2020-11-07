@@ -1,0 +1,100 @@
+<p>1.&nbsp;<b>le</b><b></b>&nbsp;(det.)&nbsp;<i>the</i>; (pron.)&nbsp;<i>him, her, it, them&nbsp;</i><i></i><br>
+2.&nbsp;<b>de</b>&nbsp;(det.)&nbsp;<i>some, any</i>; (prep.)<em>&nbsp;of, from&nbsp;</em><br>
+3.&nbsp;<b>un</b>&nbsp;(det.)&nbsp;<i>a, an</i>; (adj., pron.)&nbsp;<em>one</em><br>
+4.&nbsp;<b>à</b>&nbsp;(prep.)&nbsp;<i>to, at, in</i><br>
+5.&nbsp;<b>être</b>&nbsp;(verb)&nbsp;<i>to be</i>; (noun [m.])&nbsp;<i>being</i><br>
+6.&nbsp;<b>et</b>&nbsp;(conj.)&nbsp;<i>and</i><br>
+7.&nbsp;<b>en&nbsp;</b>(prep.)&nbsp;<i>in, by</i>; (adv., pron.)<br>
+8.&nbsp;<b>avoir&nbsp;</b>(verb)<em>&nbsp;to have</em>; (noun [m.])&nbsp;<em>assets</em><br>
+9.&nbsp;<b>que</b>&nbsp;(adv., pron., conj.)&nbsp;<i>t</i><em>hat, which, who, whom&nbsp;</em><br>
+10.&nbsp;<b>pour</b>&nbsp;(prep.)&nbsp;<i>for, in order to</i><br>
+11.&nbsp;<b>dans</b>&nbsp;(prep.)&nbsp;<i>in, into, from</i><br>
+12.&nbsp;<b>ce&nbsp;</b>(det., pron.)&nbsp;<i>this, that</i><br>
+13.&nbsp;<b>il&nbsp;</b>(pron.)<em>&nbsp;he, it&nbsp;</em><br>
+14.&nbsp;<b>qui</b>&nbsp;(pron.)&nbsp;<i>who, whom&nbsp;</i><br>
+15.&nbsp;<b>ne&nbsp;</b>(adv.)&nbsp;<i>not</i><br>
+16.&nbsp;<b>sur</b>&nbsp;(prep.)<em>&nbsp;on, upon</em>; (adj.)&nbsp;<em>sour</em><br>
+17.&nbsp;<b>se</b>&nbsp;(pron.)&nbsp;<i>oneself, himself, herself, itself, themselves&nbsp;</i><br>
+18.&nbsp;<b>pas&nbsp;</b>(adv.)&nbsp;<i>not</i>; (noun [m.])&nbsp;<em>footstep</em><br>
+19.&nbsp;<b>plus</b>&nbsp;(adv.)&nbsp;<i>more, no more</i><br>
+20.&nbsp;<b>pouvoir</b>&nbsp;(verb)&nbsp;<i>to be able to, c</i><em>an</em>; (noun [m.])&nbsp;<em>power</em><br>
+21.&nbsp;<b>par</b>&nbsp;(prep.)&nbsp;<i>by</i><br>
+22.&nbsp;<b>je&nbsp;</b>(pron.)&nbsp;<i>I</i><br>
+23.&nbsp;<b>avec</b>&nbsp;(prep.)&nbsp;<i>with</i><br>
+24.&nbsp;<b>tout</b>&nbsp;(adj., adv., pron., det.)&nbsp;<em>all, very&nbsp;</em><br>
+25.&nbsp;<b>faire</b>&nbsp;(verb)&nbsp;<i>to do, make&nbsp;</i><i></i><br>
+26.&nbsp;<b>son</b>&nbsp;(det.)&nbsp;<i>his, her its</i>; (noun [m.])&nbsp;<i>sound; bran</i><br>
+27.&nbsp;<b>mettre</b>&nbsp;(verb)&nbsp;<i>to put, place</i><br>
+28.&nbsp;<b>autre</b>&nbsp;(det., pron.)&nbsp;<i>other</i><br>
+29.&nbsp;<b>on&nbsp;</b>(pron.)&nbsp;<i>one, we</i><br>
+30.&nbsp;<b>mais</b>&nbsp;(conj., adv.)<em>&nbsp;but</em><br>
+31.&nbsp;<b>nous</b>&nbsp;(pron.)&nbsp;<i>we, us&nbsp;</i><br>
+32.&nbsp;<b>comme&nbsp;</b>(conj., adv.)&nbsp;<i>like, as</i><br>
+33.&nbsp;<b>ou</b>&nbsp;(conj.)&nbsp;<i>or&nbsp;</i><br>
+34.&nbsp;<b>si</b>&nbsp;(conj.)&nbsp;<i>if, whether</i>; (adv.)&nbsp;<em>so</em><br>
+35.&nbsp;<b>leur&nbsp;</b>(det., pron.)&nbsp;<i>their, theirs, them&nbsp;</i><i></i><br>
+36.&nbsp;<b>y&nbsp;</b>(adv.)&nbsp;<i>there</i>; (pron.)&nbsp;<em>it</em><br>
+37.&nbsp;<b>dire</b>&nbsp;(verb)<em>&nbsp;to say</em>; (noun [m.]) saying<br>
+38.&nbsp;<b>elle</b>&nbsp;(pron.)&nbsp;<i>she, her</i><br>
+39.&nbsp;<b>devoir&nbsp;</b>(verb)&nbsp;<i>to have to, ow</i><em>e</em>; (noun [m.])&nbsp;<em>duty</em><br>
+40.&nbsp;<b>avant</b>&nbsp;(prep., adv.)<i>&nbsp;before</i>; (noun [m.])&nbsp;<em>front</em><br>
+41.&nbsp;<b>deux</b>&nbsp;(det., noun [m.])&nbsp;<i>two</i><br>
+42.&nbsp;<b>même</b>&nbsp;(adj., pron.)&nbsp;<i>same</i>; (adv.)&nbsp;<em>even</em><br>
+43.&nbsp;<b>prendre&nbsp;</b>(verb)&nbsp;<i>to take</i><br>
+44.&nbsp;<b>aussi&nbsp;</b>(adv.)&nbsp;<i>to, also</i>; (conj.)&nbsp;<em>as</em><br>
+45.&nbsp;<b>celui</b>&nbsp;(pron.)&nbsp;<i>that, the one, he, him</i><br>
+46.&nbsp;<b>donner&nbsp;</b>(verb)&nbsp;<i>to give</i><br>
+47.&nbsp;<b>bien</b>&nbsp;(adv.)&nbsp;<i>well</i>; (noun [m.])&nbsp;<em>good</em><br>
+48.&nbsp;<b>où</b>&nbsp;(adv., pron.)&nbsp;<i>where</i><br>
+49.&nbsp;<b>fois&nbsp;</b>(noun [f.])&nbsp;<i>time(s)</i><br>
+50.&nbsp;<b>vous&nbsp;</b>(pron.)<em>&nbsp;you</em><br>
+51.&nbsp;<b>encore</b>&nbsp;(adv.)&nbsp;<i>again, yet</i><br>
+52.&nbsp;<b>nouveau</b>&nbsp;(adj.)&nbsp;<i>new</i>; (noun [m.])&nbsp;<em>new (thing)&nbsp;</em><br>
+53.&nbsp;<b>aller&nbsp;</b>(verb)&nbsp;<i>to go</i><br>
+54.<strong>&nbsp;cela&nbsp;</strong>(pron.)&nbsp;<i>that, it</i><br>
+55.&nbsp;<b>entre</b>&nbsp;(prep.)&nbsp;<i>between<br>
+</i>56.&nbsp;<b>premier</b>&nbsp;(det., adj.)&nbsp;<i>first</i><br>
+57.&nbsp;<b>vouloir&nbsp;</b>(verb)&nbsp;<i>to want</i>; (noun [m.])&nbsp;<em>will, desire&nbsp;</em><br>
+58.&nbsp;<b>déjà&nbsp;</b>(adv.)&nbsp;<i>already&nbsp;</i><br>
+59.&nbsp;<b>grand&nbsp;</b>(adj., adv.)&nbsp;<i>great, big, tall</i><br>
+60.&nbsp;<b>mon</b>&nbsp;(det.)<i>&nbsp;my</i><br>
+61.&nbsp;<b>me</b>&nbsp;(pron.)&nbsp;<i>me, to me, myself</i><br>
+62.&nbsp;<b>moins</b>&nbsp;(adv.)&nbsp;<i>less</i>; (prep., noun [m.])&nbsp;<em>minus</em><br>
+63.&nbsp;<b>aucun</b>&nbsp;(det., adj., pron.)&nbsp;<i>none, either, neither, not any</i><br>
+64.&nbsp;<b>lui&nbsp;</b>(pron.)&nbsp;<i>him, her&nbsp;</i><br>
+65.&nbsp;<b>temps</b>&nbsp;(noun [m.])&nbsp;<i>time</i><br>
+66.&nbsp;<b>très&nbsp;</b>(adv.)&nbsp;<i>very</i><br>
+67.&nbsp;<b>savoir</b>&nbsp;(verb)&nbsp;<i>to know</i>; (noun [m.])&nbsp;<em>learning, knowledge&nbsp;</em><br>
+68.&nbsp;<b>falloir</b>&nbsp;(verb)&nbsp;<i>to take, require, need</i><br>
+69.&nbsp;<b>voir</b>&nbsp;(verb)&nbsp;<i>to see&nbsp;</i><br>
+70.&nbsp;<b>quelque</b>&nbsp;(det., adj., adv.)<em>&nbsp;some&nbsp;</em><br>
+71.&nbsp;<b>sans</b>&nbsp;(prep.)&nbsp;<i>without</i><br>
+72.&nbsp;<b>raison</b>&nbsp;(noun [f.])&nbsp;<i>reason</i><br>
+73.&nbsp;<b>notre&nbsp;</b>(det.)&nbsp;<i>our</i><br>
+74.&nbsp;<b>dont&nbsp;</b>(pron.)&nbsp;<i>whose, of which</i><br>
+75.&nbsp;<b>non</b>&nbsp;(adv.)&nbsp;<i>no, not<br>
+</i>76.&nbsp;<b>an</b>&nbsp;(noun [m.])&nbsp;<i>year</i><br>
+77.&nbsp;<b>monde&nbsp;</b>(noun [m.])&nbsp;<i>world, people</i><br>
+78.&nbsp;<b>jour</b>&nbsp;(noun [m.])<em>&nbsp;day</em><br>
+79.&nbsp;<b>monsieur</b>&nbsp;(noun [m.])&nbsp;<i>mister, sir, gentleman</i><br>
+80.&nbsp;<b>demander</b>&nbsp;(verb)&nbsp;<i>to ask for</i><br>
+81.&nbsp;<b>alors</b>&nbsp;(adv.)&nbsp;<i>then, so</i><br>
+82.&nbsp;<b>après</b>&nbsp;(adv., prep.)&nbsp;<em>after</em><br>
+83.&nbsp;<b>trouver</b>&nbsp;(verb)&nbsp;<i>to find</i><br>
+84.&nbsp;<b>personne</b>&nbsp;(noun [f.])&nbsp;<i>person</i>; (pron.)&nbsp;<em>anyone, nobody&nbsp;</em><br>
+85.&nbsp;<b>rendre</b>&nbsp;(verb)&nbsp;<i>to render, return, yield, give up</i><br>
+86.&nbsp;<b>part</b>&nbsp;(noun [f.])&nbsp;<i>share</i><br>
+87.&nbsp;<b>dernier</b>&nbsp;(adj).&nbsp;<i>last</i><br>
+88.&nbsp;<b>venir</b>&nbsp;(verb)&nbsp;<i>to come</i><br>
+89.&nbsp;<b>pendant</b>&nbsp;(adj.)&nbsp;<em>during</em>; (prep.)&nbsp;<em>for</em>; (noun [m.])&nbsp;<i>pendant</i><br>
+90.&nbsp;<b>passer</b>&nbsp;(verb)&nbsp;<i>to pass</i><br>
+91.&nbsp;<b>peu</b>&nbsp;(adv.)<em>&nbsp;little</em><br>
+92.&nbsp;<b>lequel</b>&nbsp;(pron.)&nbsp;<i>who, whom, which&nbsp;</i><br>
+93.&nbsp;<b>suite</b>&nbsp;(noun [f.])&nbsp;<i>result, follow-up, rest&nbsp;</i><br>
+94.&nbsp;<b>bon</b>&nbsp;(adj., adv.)<em>&nbsp;good</em>; (noun [m.])&nbsp;<em>coupon, voucher&nbsp;</em><br>
+95.&nbsp;<b>comprendre</b>&nbsp;(verb)&nbsp;<i>to understand<br>
+</i>96.&nbsp;<b>depuis</b>&nbsp;(prep., adv.)&nbsp;<i>since</i><i>&nbsp;</i><br>
+97.&nbsp;<b>point</b>&nbsp;(adv.)&nbsp;<i>at all</i>; (noun [m.])&nbsp;<i>point</i><br>
+98.&nbsp;<b>ainsi</b>&nbsp;(adv.)&nbsp;<i>thus</i><br>
+99.&nbsp;<b>heure</b>&nbsp;(noun [f.])&nbsp;<i>hour</i><br>
+100.&nbsp;<b>rester</b>&nbsp;(verb)&nbsp;<i>to stay</i></p>
