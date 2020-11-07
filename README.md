@@ -7,7 +7,7 @@ Extract Genius top10 chart, analyze lyrics.
 - Use the current week number's top10 song links to extract frequency count `python getpages.py`
 
 
-``
+```
 Booba - 5G
 https://genius.com/Booba-5g-lyrics
 [('faut', 5), ('plus', 4), ('vie', 4), ('5g', 4), ("j'fais", 4), ("p't-etre", 3), ('savent', 3), ('encoder', 3), ("d'mande", 3), ('meme', 2)]
@@ -48,4 +48,4 @@ Gemitaiz - Mama
 https://genius.com/Gemitaiz-mama-lyrics
 [('perso', 7), ('sai', 5), ('guardo', 4), ('storie', 4), ('passano', 4), ('ore', 4), ('vorrei', 4), ('mama', 4), ('servono', 4), ('parole', 4)]
 
-``
+```
