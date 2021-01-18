@@ -1,0 +1,41 @@
+
+
+Christmas Songs - The Twelve Days of Christmas
+https://genius.com/Christmas-songs-the-twelve-days-of-christmas-lyrics
+[('christmas', 12), ('true', 12), ('love', 12), ('sent', 12), ('partridge', 12), ('pear', 12), ('tree', 12), ('turtle', 11), ('doves', 11), ('three', 10)]
+
+The Kid LAROI - Juice WRLD - Reminds Me Of You
+https://genius.com/The-kid-laroi-and-juice-wrld-reminds-me-of-you-lyrics
+[('reminds', 20), ("can't", 16), ('cause', 14), ("don't", 7), ('wanna', 7), ('again', 6), ('remind', 5), ('shit', 4), ('girl', 4), ('play', 3)]
+
+DJ Scheme - E-ER
+https://genius.com/Dj-scheme-e-er-lyrics
+[('yup', 14), ('shit', 9), ('eeh-eeh', 8), ('hee', 7), ('cause', 6), ('huh', 6), ('bitch', 5), ("don't", 5), ("what's", 5), ('hahaha', 4)]
+
+twenty one pilots - Christmas Saves the Year
+https://genius.com/Twenty-one-pilots-christmas-saves-the-year-lyrics
+[('year', 7), ('cause', 5), ('everybody', 4), ('wants', 4), ('home', 4), ('world', 4), ('crumblin', 4), ("everybody's", 4), ('somebody', 4), ("who's", 4)]
+
+Mario Judah - Bih Yah
+https://genius.com/Mario-judah-bih-yah-lyrics
+[('bitch', 35), ('pop', 26), ('slatt', 19), ("don't", 19), ('money', 17), ('suck', 12), ('dick', 12), ('yeah-yeah', 11), ('molly', 10), ('perc', 8)]
+
+Jack Harlow - Way Out
+https://genius.com/Jack-harlow-way-out-lyrics
+[('ooh', 23), ('let', 16), ('gon', 11), ('stay', 8), ('still', 8), ('check', 6), ("ain't", 6), ('ex', 6), ('tell', 5), ('play', 5)]
+
+Megan Thee Stallion - Body
+https://genius.com/Megan-thee-stallion-body-lyrics
+[('ah', 16), ('body-ody-ody-ody-ody-ody-ody-ody', 12), ('ody-ody-ody-ody-ody-ody-ody', 12), ('titties', 10), ('waist', 10), ('lil', 9), ('body', 9), ('crazy', 8), ('curvy', 8), ('wavy', 8)]
+
+StarBoi3 - Dick
+https://genius.com/Starboi3-dick-lyrics
+[('dick', 31), ('goin', 22), ('ham', 18), ('tonight', 18), ('ayy', 16), ('sittin', 6), ('stand', 6), ('pussy', 6), ('gym', 5), ('plans', 4)]
+
+Christmas Songs - Jingle Bells
+https://genius.com/Christmas-songs-jingle-bells-lyrics
+[('jingle', 24), ('bells', 17), ('open', 11), ('sleigh', 11), ('one-horse', 10), ('ride', 10), ('fun', 9), ('hey', 4), ('snow', 2), ('bright', 2)]
+
+Lil Baby - On Me
+https://genius.com/Lil-baby-on-me-lyrics
+[('real', 7), ('still', 7), ("don't", 7), ('keep', 4), ('know', 4), ('gon', 3), ("can't", 3), ('pussy', 3), ('runnin', 3), ('spend', 3)]

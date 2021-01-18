@@ -1,0 +1,41 @@
+
+
+Olivia Rodrigo - drivers license
+https://genius.com/Olivia-rodrigo-drivers-license-lyrics
+[('cause', 8), ('drive', 6), ('know', 5), ('past', 5), ('just', 4), ('through', 4), ("weren't", 4), ('could', 4), ('never', 4), ("can't", 4)]
+
+Lana Del Rey - Chemtrails Over the Country Club
+https://genius.com/Lana-del-rey-chemtrails-over-the-country-club-lyrics
+[('chemtrails', 9), ('over', 9), ('country', 9), ('club', 8), ('under', 7), ('love', 5), ('born', 4), ('nothing', 3), ('jewels', 3), ('swimming', 3)]
+
+MORGENSHTERN - Cristal -
+https://genius.com/Morgenshtern-cristal-and-lyrics
+Encoding Issue... No Lyrics Analyzed... Sorry Russians...
+
+SZA - Good Days
+https://genius.com/Sza-good-days-lyrics
+[('mind', 24), ('always', 11), ('days', 6), ('shit', 5), ("don't", 5), ('tryna', 5), ('gotta', 5), ('still', 5), ('let', 4), ('rest', 4)]
+
+Real Music 4E - SEVEN 7oo
+https://genius.com/Real-music-4e-seven-7oo-lyrics
+[('seven', 23), ('zoo', 22), ('san', 6), ('siro', 6), ('sei', 5), ('miei', 4), ('ehi', 4), ('sopra', 4), ('casa', 4), ('nko', 3)]
+
+The Longest Johns - Wellerman
+https://genius.com/The-longest-johns-wellerman-lyrics
+[('tea', 8), ('wellerman', 8), ('soon', 7), ('bring', 7), ('sugar', 7), ('rum', 7), ('tonguin', 7), ('done', 7), ("we'll", 7), ('leave', 7)]
+
+1096 Gang - PAJAMA PARTY
+https://genius.com/1096-gang-pajama-party-lyrics
+[('sa', 33), ('ko', 22), ('lang', 17), ('ng', 14), ('mo', 14), ('yung', 10), ('ang', 10), ('wag', 7), ('parang', 6), ('yan', 6)]
+
+Travis Scott - NIAGARA FALLS
+https://genius.com/Travis-scott-niagara-falls-lyrics
+[('ah', 18), ('might', 12), ('phew', 12), ('ooh', 10), ('know', 9), ('gotta', 9), ('extra', 9), ("it's", 6), ('done', 4), ('lot', 4)]
+
+dodie - Hate Myself
+https://genius.com/Dodie-hate-myself-lyrics
+[("don't", 20), ('think', 20), ('here', 11), ('quiet', 11), ('something', 8), ('hate', 8), ('help', 7), ("it's", 5), ('dear', 5), ('wrong', 4)]
+
+Eminem - Gnat
+https://genius.com/Eminem-gnat-lyrics
+[('off', 20), ("that's", 11), ('fight', 8), ('cause', 8), ('covid', 7), ('em', 7), ('right', 7), ('took', 7), ('dope', 6), ('bars', 6)]
