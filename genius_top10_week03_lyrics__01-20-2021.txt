@@ -1,0 +1,41 @@
+
+
+Olivia Rodrigo - drivers license
+https://genius.com/Olivia-rodrigo-drivers-license-lyrics
+[('cause', 8), ('drive', 6), ('know', 5), ('past', 5), ('just', 4), ('through', 4), ("weren't", 4), ('could', 4), ('never', 4), ("can't", 4)]
+
+SZA - Good Days
+https://genius.com/Sza-good-days-lyrics
+[('mind', 24), ('always', 11), ('days', 6), ('shit', 5), ("don't", 5), ('tryna', 5), ('gotta', 5), ('still', 5), ('let', 4), ('rest', 4)]
+
+MORGENSHTERN - Cristal -
+https://genius.com/Morgenshtern-cristal-and-lyrics
+Encoding Issue... No Lyrics Analyzed... Sorry Russians...
+
+Juice WRLD - Young Thug - Bad Boy
+https://genius.com/Juice-wrld-and-young-thug-bad-boy-lyrics
+[('skrrt', 18), ('boy', 16), ("i've", 7), ('bad', 6), ('red', 6), ('mccoy', 6), ('smith', 4), ('bag', 4), ("it's", 4), ('stay', 4)]
+
+Ariana Grande - 34 35 Remix
+https://genius.com/Ariana-grande-34-35-remix-lyrics
+[('keep', 9), ('stay', 9), ('night', 9), ('fuck', 8), ('thirty-four', 8), ('thirty-five', 8), ('til', 7), ('daylight', 7), ("i've", 6), ('know', 6)]
+
+Selena Gomez - De Una Vez
+https://genius.com/Selena-gomez-de-una-vez-lyrics
+[('es', 10), ('una', 4), ('ah-ah-ah', 4), ('ahora', 4), ('este', 4), ('pecho', 4), ('antibalas', 4), ('vez', 3), ('por', 3), ('toda', 3)]
+
+Lana Del Rey - Chemtrails Over the Country Club
+https://genius.com/Lana-del-rey-chemtrails-over-the-country-club-lyrics
+[('chemtrails', 9), ('over', 9), ('country', 9), ('club', 8), ('under', 7), ('love', 5), ('born', 4), ('nothing', 3), ('jewels', 3), ('swimming', 3)]
+
+Joshua Bassett - Lie Lie Lie
+https://genius.com/Joshua-bassett-lie-lie-lie-lyrics
+[('time', 17), ('lie', 12), ('try', 10), ('bye', 8), ('told', 7), ('know', 7), ('off', 7), ('mind', 7), ('enough', 6), ('lying', 5)]
+
+KASIMIR1441 badm mzjay - WILDBWOYS - Ohne Dich
+https://genius.com/Kasimir1441-badmomzjay-and-wildbwoys-ohne-dich-lyrics
+[('ich', 52), ('nicht', 21), ('bin', 14), ('und', 12), ('dich', 11), ('du', 10), ('komm', 9), ('ja', 8), ('glaub', 8), ('nuchtern', 8)]
+
+ZAYN - Tightrope
+https://genius.com/Zayn-tightrope-lyrics
+[('something', 16), ('told', 16), ('ho', 8), ('ready', 7), ('bout', 4), ('cause', 3), ('never', 3), ('feel', 2), ('fall', 2), ('let', 2)]
