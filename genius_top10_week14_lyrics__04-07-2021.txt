@@ -1,0 +1,41 @@
+
+
+Lil Nas X - MONTERO Call Me By Your Name
+https://genius.com/Lil-nas-x-montero-call-me-by-your-name-lyrics
+[('call', 15), ('mmm', 12), ("ain't", 4), ("i'll", 4), ('name', 4), ('wanna', 3), ('while', 2), ('fuck', 2), ('livin', 2), ('cocaine', 2)]
+
+Olivia Rodrigo - deja vu
+https://genius.com/Olivia-rodrigo-deja-vu-lyrics
+[('deja', 9), ('vu', 9), ("she's", 5), ('tell', 4), ('know', 4), ('bet', 3), ("it's", 3), ('reused', 3), ('malibu', 2), ('strawberry', 2)]
+
+ROS - Gone
+https://genius.com/Rose-gone-lyrics
+[('love', 13), ('gone', 9), ('just', 6), ('go-o-o-o-o-o-o-o-o-o-one', 6), ('hate', 5), ('feel', 5), ('morning', 4), ('dead', 4), ('already', 3), ("that's", 3)]
+
+Spinabenz - Who I Smoke
+https://genius.com/Spinabenz-who-i-smoke-lyrics
+[('miss', 14), ('boy', 11), ('back', 6), ('smoke', 6), ('know', 4), ("don't", 4), ('smokin', 4), ('lil', 4), ('til', 4), ('drop', 4)]
+
+MiyaGi -  -  -  -  -  Patron
+https://genius.com/Miyagi-and-patron-lyrics
+Encoding Issue... No Lyrics Analyzed... Sorry Russians...
+
+Genius Romanizations - BTS - Film out Romanized
+https://genius.com/Genius-romanizations-bts-film-out-romanized-lyrics
+[('kimi', 12), ('la-la-la', 12), ('wo', 11), ('ni', 8), ('mo', 5), ('ga', 5), ('wa', 4), ('iru', 4), ('heya', 4), ('oh-oh', 3)]
+
+Demi Lovato - Met Him Last Night
+https://genius.com/Demi-lovato-met-him-last-night-lyrics
+[('right', 12), ('night', 10), ('seen', 9), ("he's", 8), ('kinda', 8), ('believe', 7), ("ain't", 7), ("don't", 6), ("i've", 6), ('devil', 6)]
+
+SEEMEE -  -  -  -  Hungry dog
+https://genius.com/Seemee-hungry-dog-lyrics
+Encoding Issue... No Lyrics Analyzed... Sorry Russians...
+
+Demi Lovato - Dancing With The Devil
+https://genius.com/Demi-lovato-dancing-with-the-devil-lyrics
+[('dancing', 7), ('devil', 7), ("it's", 6), ('little', 4), ('almost', 4), ('closer', 4), ('know', 4), ('control', 3), ('made', 3), ('heaven', 3)]
+
+Cardi B - Up
+https://genius.com/Cardi-b-up-lyrics
+[("it's", 48), ('stuck', 12), ('bitches', 9), ('huh', 9), ('back', 8), ('man', 7), ('bag', 6), ('bussin', 6), ('bentley', 6), ('bentayga', 6)]
